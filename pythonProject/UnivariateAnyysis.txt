@@ -1,0 +1,43 @@
+Category: Gender, with value Female as Churn. The Churn Rate: 26.96%
+Category: Gender, with value Male as Churn. The Churn Rate: 26.20%
+Category: SeniorCitizen, with value No as Churn. The Churn Rate: 23.65%
+Category: SeniorCitizen, with value Yes as Churn. The Churn Rate: 41.68%
+Category: Partner, with value No as Churn. The Churn Rate: 32.98%
+Category: Partner, with value Yes as Churn. The Churn Rate: 19.72%
+Category: Dependents, with value No as Churn. The Churn Rate: 31.28%
+Category: Dependents, with value Yes as Churn. The Churn Rate: 15.53%
+Category: PhoneService, with value No as Churn. The Churn Rate: 25.00%
+Category: PhoneService, with value Yes as Churn. The Churn Rate: 26.75%
+Category: MultipleLines, with value No as Churn. The Churn Rate: 25.08%
+Category: MultipleLines, with value No phone service as Churn. The Churn Rate: 25.00%
+Category: MultipleLines, with value Yes as Churn. The Churn Rate: 28.65%
+Category: InternetService, with value DSL as Churn. The Churn Rate: 19.00%
+Category: InternetService, with value Fiber optic as Churn. The Churn Rate: 41.89%
+Category: InternetService, with value No as Churn. The Churn Rate: 7.43%
+Category: OnlineSecurity, with value No as Churn. The Churn Rate: 41.78%
+Category: OnlineSecurity, with value No internet service as Churn. The Churn Rate: 7.43%
+Category: OnlineSecurity, with value Yes as Churn. The Churn Rate: 14.64%
+Category: OnlineBackup, with value No as Churn. The Churn Rate: 39.94%
+Category: OnlineBackup, with value No internet service as Churn. The Churn Rate: 7.43%
+Category: OnlineBackup, with value Yes as Churn. The Churn Rate: 21.57%
+Category: DeviceProtection, with value No as Churn. The Churn Rate: 39.14%
+Category: DeviceProtection, with value No internet service as Churn. The Churn Rate: 7.43%
+Category: DeviceProtection, with value Yes as Churn. The Churn Rate: 22.54%
+Category: TechSupport, with value No as Churn. The Churn Rate: 41.65%
+Category: TechSupport, with value No internet service as Churn. The Churn Rate: 7.43%
+Category: TechSupport, with value Yes as Churn. The Churn Rate: 15.20%
+Category: StreamingTV, with value No as Churn. The Churn Rate: 33.54%
+Category: StreamingTV, with value No internet service as Churn. The Churn Rate: 7.43%
+Category: StreamingTV, with value Yes as Churn. The Churn Rate: 30.11%
+Category: StreamingMovies, with value No as Churn. The Churn Rate: 33.73%
+Category: StreamingMovies, with value No internet service as Churn. The Churn Rate: 7.43%
+Category: StreamingMovies, with value Yes as Churn. The Churn Rate: 29.95%
+Category: Contract, with value Month-to-month as Churn. The Churn Rate: 42.71%
+Category: Contract, with value One year as Churn. The Churn Rate: 11.28%
+Category: Contract, with value Two year as Churn. The Churn Rate: 2.85%
+Category: PaperlessBilling, with value No as Churn. The Churn Rate: 16.38%
+Category: PaperlessBilling, with value Yes as Churn. The Churn Rate: 33.59%
+Category: PaymentMethod, with value Bank transfer as Churn. The Churn Rate: 16.73%
+Category: PaymentMethod, with value Credit card as Churn. The Churn Rate: 15.25%
+Category: PaymentMethod, with value Electronic check as Churn. The Churn Rate: 45.29%
+Category: PaymentMethod, with value Mailed check as Churn. The Churn Rate: 19.20%
