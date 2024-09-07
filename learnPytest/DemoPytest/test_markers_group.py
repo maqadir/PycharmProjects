@@ -25,7 +25,7 @@ def test_e2e():
 
 @pytest.mark.smoke
 def test_login():
-    print("Long Into Application")
+    print("Log Into Application")
 
 
 @pytest.mark.smoke

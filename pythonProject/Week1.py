@@ -1,5 +1,3 @@
-from enum import unique
-
 data = [10, 20, 31.8, 1, 4, 5, 5, 34, 17, 76, 9]
 
 list_test = [1, 2, 3, 3, 4, 5, 5, 6, 7, 7]
