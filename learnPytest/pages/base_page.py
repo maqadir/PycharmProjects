@@ -1,3 +1,5 @@
+from selenium.webdriver.common.by import By
+
 
 class BasePage:
     """
@@ -22,3 +24,10 @@ class BasePage:
 
     def get_title(self):
         return self.driver.title
+
+    def click_right_menu_page(self, page_name):
+        page = By.XPATH, "//aside[@id='column-right']//a[text()=' "+ page_name +"']"
+        self.click(page)
+
+    def page(self, page_name):
+        return By.XPATH, "//aside[@id='column-right']//a[text()=' "+ page_name +"']"
